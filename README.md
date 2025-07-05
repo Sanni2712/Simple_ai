@@ -5,4 +5,6 @@ accessing saved model --> testing.py (this loads an uses the saved model using a
 
 images do not need to be resized ;)
 
-15 epochs - 555.96 seconds (system configuration - ryzen 7 4700u 16gb DDR4, no dGPU)
+15 epochs - 555.96 seconds (ryzen 7 4700u 16gb DDR4, no dGPU)
+            367.71 seconds (ryzen ai 9 365, 24gb LPDDR5x, no dgpu
+            191.65 seconds ([Google colab](colab.research.google.com), hardware accelerator: T4-GPU)
