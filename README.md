@@ -1,5 +1,5 @@
 # Simple_ai
-simple beginner pytorch project, CNN that classifies objects in a 32X32 pixel image trained on CIFAR10 dataset
+Simple beginner pytorch project, CNN that classifies objects in a 32X32 pixel image trained on CIFAR10 dataset
 training model --> `simpleai.py` <br>
 (this trains a model and saves it in the program folder and tests it using an image in the program folder)<br><br>
 accessing saved model --> `testing.py` (this loads an uses the saved model using an image in the program folder)
